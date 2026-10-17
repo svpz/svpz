@@ -1,16 +1,18 @@
-## Hi there 👋
+# Sulav Parajuli
 
-<!--
-**svpz/svpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer · Builder · Systems Enthusiast
 
-Here are some ideas to get you started:
+I build production software at Qiggz LLC, primarily
+across mobile, backend and web systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of production work, I enjoy understanding
+software from a lower level.
+
+Currently exploring:
+
+→ programming language design
+→ virtual machines
+→ compilers
+→ operating systems
+→ native Android/JNI
+→ C/C++
